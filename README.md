@@ -28,6 +28,6 @@ Run the publisher node :
 ![Rosgraph](Documents/rosgraph.png?raw=true "Node an topics overview")
 
 3 topics are used :
- - /accel_marvelmind_readings [geometry_msgs/msg/Accel]
- - /pose_marvelmind_readings [geometry_msgs/msg/Pose]
- - /twist_marvelmind_readings [geometry_msgs/msg/Twist]
+ - /accel_marvelmind_readings [geometry_msgs/msg/Accel](http://docs.ros.org/en/api/geometry_msgs/html/msg/Accel.html)
+ - /pose_marvelmind_readings [geometry_msgs/msg/Pose](http://docs.ros.org/en/api/geometry_msgs/html/msg/Pose.html)
+ - /twist_marvelmind_readings [geometry_msgs/msg/Twist](http://docs.ros.org/en/api/geometry_msgs/html/msg/Twist.html)
